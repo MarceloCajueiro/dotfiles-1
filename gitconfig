@@ -27,3 +27,6 @@
   path = ~/.gitconfig.local
 [diff]
   colorMoved = zebra
+[user]
+  email = marcelocajueiro@gmail.com
+  name = Marcelo Cajueiro
